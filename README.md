@@ -1,15 +1,15 @@
-🌊 Data Dive
+# 🌊 Data Dive
 
 Explore. Extract. Engage.
 A Conversational AI Document Analysis Tool
 
-🧠 Overview
+# Overview
 
 Data Dive is a next-generation document processing and Q&A platform that redefines how users interact with PDF documents using Natural Language Processing (NLP) and conversational AI.
 
 Upload your PDFs, ask questions, and let Data Dive extract insights directly from your documents — all through an intuitive chat interface.
 
-🚀 Features
+# 🚀 Features
 
 ✅ Secure PDF upload and text extraction via PyPDF2
 ✅ Smart text chunking for optimized document analysis
@@ -18,7 +18,7 @@ Upload your PDFs, ask questions, and let Data Dive extract insights directly fro
 ✅ Clean, interactive Streamlit interface
 ✅ SQLite-based authentication for secure user access
 
-🧩 Tech Stack
+# 🧩 Tech Stack
 Layer	Technology
 Frontend / UI	Streamlit
 Backend	Python
@@ -40,10 +40,6 @@ Ask Questions: User queries are compared against the document embeddings.
 
 Get Insights: The system returns accurate, context-aware answers using the best-matching sections of your file.
 
-🧰 Installation
-# Clone the Repository
-git clone https://github.com/your-username/data-dive.git
-cd data-dive
 
 # Install Dependencies
 pip install -r requirements.txt
@@ -85,11 +81,11 @@ Summary generation for documents
 
 Voice-based query support
 
-🧑‍🎓 About
+# 🧑‍🎓 About
 
 Developed by Ayesha Muzamil: Introduction to Computer Science final project.
 This project showcases the practical integration of AI, NLP, and full-stack development skills.
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License
